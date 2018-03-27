@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>img</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.44486689" y="0.361768835" width="59.441389" height="59.441389" rx="9.5"></rect>
+        <filter x="-19.3%" y="-16.0%" width="138.7%" height="138.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0681046196 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M15.2826171,40.2256045 L0.183348473,40.2256045 L0.183348473,0.315078271 L15.1760719,0.315078271 C27.8750574,0.315078271 33.1580927,6.32792205 33.1580927,20.1119504 C33.1580927,34.5335527 27.1292408,40.2256045 15.2826171,40.2256045" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img" transform="translate(7.000000, 4.919922)">
+            <g id="App-Icon">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="typo" transform="translate(14.415561, 9.832463)">
+                <g id="Rectangle-10" transform="translate(-0.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <g id="Group-8" mask="url(#mask-4)">
+                        <g transform="translate(13.423337, 22.321583) rotate(-60.000000) translate(-13.423337, -22.321583) translate(-17.872716, -0.569721)" id="Rectangle-10">
+                            <rect fill="#484848" x="0.155857818" y="0.355155716" width="61.5617414" height="14.9956935"></rect>
+                            <rect fill="#6B6B6B" x="0.155857818" y="15.3508492" width="61.5617414" height="14.9956935"></rect>
+                            <rect fill="#9B9B9B" x="0.155857818" y="30.3465427" width="61.5617414" height="14.9956935"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path d="M11.8070068,49.4091797 L8.82683353,49.4091797" id="Line-7" stroke="#9B9B9B" stroke-linecap="square"></path>
+            <path d="M15.0587158,55.6059688 L15.0587158,52.6864527" id="Line-7" stroke="#9B9B9B" stroke-linecap="square"></path>
+            <path d="M11.6828613,10.6022436 L8.70268802,10.6022436" id="Line-7" stroke="#9B9B9B" stroke-linecap="square"></path>
+            <path d="M14.9345703,7.10224362 L14.9345703,3.79903268" id="Line-7" stroke="#9B9B9B" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

@@ -1,2 +1,3 @@
-# dether.icons
-All Dether's logos
+# Dether's logo
+
+Up to date Dether's logo. Free of use for any kind of services / applications.
